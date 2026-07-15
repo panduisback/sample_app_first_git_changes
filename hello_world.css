@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+ <style>
+  p {
+   text-align: center;
+   color: red;
+}
+</style>
+</head>
+<body>
+
+<p>every paragraph will be affected by the style.</p>
+<p id="paral">me too!</p>
+<p>and me!</p>
+
+</body>
+</html>
